@@ -12,6 +12,7 @@ En la imagen de la derecha tenemos nuestro Windows Update funcionando al 100%
 descargando e instalando todo tipo de actualización y parches de seguridad
 para tener el dispositivo lo más seguro y lo más al día posible para evitar también cualquier tipo de vulnerabilidad.
 <img width="880" height="360" alt="izq-der" src="https://github.com/user-attachments/assets/3cd1387e-1c17-4b35-8a5c-0a51812beaa1" />
+
 3-A la izquierda tenemos la captura del uso del comando “ls” junto con la creación del
 archivo y su permiso.
 A la derecha se muestra la búsqueda de actualizaciones de paquetes usando el
