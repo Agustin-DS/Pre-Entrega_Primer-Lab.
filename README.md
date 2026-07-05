@@ -11,3 +11,4 @@ Administrador en las tareas cotidianas y reduciendo el impacto de un posible ata
 En la imagen de la derecha tenemos nuestro Windows Update funcionando al 100%
 descargando e instalando todo tipo de actualización y parches de seguridad
 para tener el dispositivo lo más seguro y lo más al día posible para evitar 
+<img width="880" height="360" alt="izq-der" src="https://github.com/user-attachments/assets/3cd1387e-1c17-4b35-8a5c-0a51812beaa1" />
