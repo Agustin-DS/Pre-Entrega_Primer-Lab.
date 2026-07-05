@@ -23,4 +23,5 @@ comando “sudo apt Update”
 4-En esta captura se muestral a creación de un Snapshot llamado “Clean Install -
 Hardening applied” como punto de restauración en caso de que ocurra algún
 inconveniente.
+
 <img width="681" height="330" alt="snapshot" src="https://github.com/user-attachments/assets/b2dc6cfb-0df1-45af-bba5-9f91a3969ffa" />
