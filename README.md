@@ -18,3 +18,7 @@ archivo y su permiso.
 A la derecha se muestra la búsqueda de actualizaciones de paquetes usando el
 comando “sudo apt Update” 
 <img width="909" height="306" alt="kali izq-der" src="https://github.com/user-attachments/assets/de9403a8-2e30-4c4b-80b4-0485300aa452" />
+4-En esta captura se muestral a creación de un Snapshot llamado “Clean Install -
+Hardening applied” como punto de restauración en caso de que ocurra algún
+inconveniente.
+<img width="681" height="330" alt="snapshot" src="https://github.com/user-attachments/assets/b2dc6cfb-0df1-45af-bba5-9f91a3969ffa" />
