@@ -3,6 +3,7 @@ Mi primer laboratorio seguro de ciberseguridad
 1-La captura muestra la configuración de la red de la VM a Red Interna para que sea
 un entorno cerrado y aislado dentro de mi VirtualBox. El principal motivo es el
 aislamiento y seguridad del dispositivo.
+
 <img width="519" height="386" alt="red" src="https://github.com/user-attachments/assets/57473692-949e-4a18-8a08-60e35ab69516" />
 
 2-Estas capturas son muestras de capas de seguridad de Windows.
