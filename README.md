@@ -3,7 +3,8 @@ Mi primer laboratorio seguro de ciberseguridad
 
 1-La captura muestra la configuración de la red de la VM a Red NAT para acceder internet de forma segura y aislada.
 
-<img width="1122" height="806" alt="red NAT" src="https://github.com/user-attachments/assets/768e9085-ad83-4b50-bd1e-561a5b9d6a64" />
+<img width="1156" height="673" alt="red NAT" src="https://github.com/user-attachments/assets/07c9989c-068e-45c9-9338-88cb05022993" />
+
 
 
 2-Estas capturas son muestras de capas de seguridad de Windows.
