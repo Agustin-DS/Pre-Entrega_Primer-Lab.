@@ -1,5 +1,6 @@
 # Pre-Entrega_Primer-Lab.
 Mi primer laboratorio seguro de ciberseguridad
+
 1-La captura muestra la configuración de la red de la VM a Red NAT para acceder internet de forma segura y aislada.
 
 <img width="1122" height="806" alt="red NAT" src="https://github.com/user-attachments/assets/768e9085-ad83-4b50-bd1e-561a5b9d6a64" />
