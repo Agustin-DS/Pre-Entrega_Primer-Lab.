@@ -20,5 +20,5 @@ para tener el dispositivo lo más seguro y lo más al día posible para evitar t
 Hardening applied” como punto de restauración en caso de que ocurra algún
 inconveniente.
 
-<img width="1125" height="680" alt="snapshot" src="https://github.com/user-attachments/assets/963c221e-bb6f-4a75-a42d-669a2c1f272c" />
+<img width="1121" height="687" alt="snapshot" src="https://github.com/user-attachments/assets/9a36529d-92da-4e9f-9086-3a61a6c11645" />
 
